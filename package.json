@@ -1,7 +1,7 @@
 {
 	"name": "hasura-args",
 	"author": "Sanjay Dookhoo",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Simplifies the process of creating the arguments in Hasura",
 	"keywords": [
 		"nodejs",
