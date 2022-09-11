@@ -1,14 +1,14 @@
 {
 	"name": "hasura-args",
 	"author": "Sanjay Dookhoo",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Simplifies the process of creating the arguments in Hasura",
 	"keywords": [
 		"nodejs",
 		"hasura",
 		"graphql",
 		"mutation",
-		"graphql mutation"
+		"argument"
 	],
 	"type": "module",
 	"main": "dist/index.js",
